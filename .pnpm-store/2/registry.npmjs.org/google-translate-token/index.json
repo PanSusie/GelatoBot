@@ -1,0 +1,34 @@
+{
+	"name": "google-translate-token",
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"versions": {
+		"1.0.0": {
+			"name": "google-translate-token",
+			"version": "1.0.0",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"got": "^6.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.15.2",
+				"webdriverio": "^4.1.1",
+				"xo": "^0.16.0"
+			},
+			"dist": {
+				"shasum": "be943445786f00c3765dec31f490dac21228d3f8",
+				"tarball": "https://registry.npmjs.org/google-translate-token/-/google-translate-token-1.0.0.tgz",
+				"integrity": "sha512-X+cONF24KI3PP94ih3L8QlqNgVxZxsfOyJtX93UISO7TRdTSrFpp4rmDpyS/x6xRxJOLcd6ApCTAkB+tNFtc3g==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIBnrsNfxZqJwAtGM+f2RUgf5FjeC0JpGwX4q8SpG0znvAiBSO8zms41YCuwhAcLPCFWd0FwgjWfnyTPX6HnT6JSKLg=="
+					}
+				]
+			}
+		}
+	},
+	"modified": "2022-06-18T13:31:43.856Z",
+	"cachedAt": 1681617001348
+}
