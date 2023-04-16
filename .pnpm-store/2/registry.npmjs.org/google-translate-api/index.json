@@ -1,0 +1,319 @@
+{
+	"name": "google-translate-api",
+	"dist-tags": {
+		"latest": "2.3.0"
+	},
+	"versions": {
+		"0.1.0": {
+			"name": "google-translate-api",
+			"version": "0.1.0",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"request": "^2.72.0"
+			},
+			"dist": {
+				"shasum": "2e566c92386efe1788426ecf01adf8b773b48f77",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-0.1.0.tgz",
+				"integrity": "sha512-fk1/SSeZE/iIgY3xx49vF7yfQYSZB7z7+J++WROLfZlHmHX94dmChFrizSNbU6q2Tyn+RjcvT3gGznaOWaCU0g==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQDUOOl87aEeUBjGKUx6QvrooQiIxuVgK5a1uqbhIHOaoQIhAMi+LcabDeFzUUL427wxsJAvQX5zoWQTBsvWWeSSX7E6"
+					}
+				]
+			}
+		},
+		"0.1.1": {
+			"name": "google-translate-api",
+			"version": "0.1.1",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"request": "^2.72.0"
+			},
+			"dist": {
+				"shasum": "3a16ee0d835eee3fbf97760efdfdbbe8fbfd4b3b",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-0.1.1.tgz",
+				"integrity": "sha512-UPCRYAXnQuObshjOMAzOJlFshKtc4o8QclkOVYaRia+QzjsMs5TH3sr2ACRAH/WopnHN2gNCBNkM2C/ExR0Gzw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIQDPWooqFTt8LuLnpxc7YOUGS8zOe6MFjOXevNYf6X+g+gIgQ6nmU/VhHNSCUsEXJIVlgcj1CeLX+vaRB/v/9erDrTk="
+					}
+				]
+			}
+		},
+		"1.0.0": {
+			"name": "google-translate-api",
+			"version": "1.0.0",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"got": "^6.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"xo": "^0.15.1"
+			},
+			"dist": {
+				"shasum": "095de887016e2739a0773755f4ee6d8886c72ff3",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-1.0.0.tgz",
+				"integrity": "sha512-pFx+kzWKdn7abwdaDM/2zhaYVq4Uj0izuemCX/23AXeFLNiM7HoZMGltZ1U8QKVUidd9MqMqDgnQNndaaFysEg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIQDmT9uRUqgawAdhyTXGTKSSL2tTm1QNI+4QfFDTacnsxQIgBVw7zfqvHN92JRbUScS9YnJRMVra/Qly1fy9SAmeqCU="
+					}
+				]
+			}
+		},
+		"2.0.1": {
+			"name": "google-translate-api",
+			"version": "2.0.1",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"got": "^6.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.9",
+				"nyc": "^6.4.4",
+				"xo": "^0.15.1"
+			},
+			"dist": {
+				"shasum": "6547128398a6b747e96f721a4756c16406b56064",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.0.1.tgz",
+				"integrity": "sha512-sPikSxEqpvsafz1v3tPRKv1HVkAUqJ39DQEuOKA7OmgnzV1WACwxZhDKeq7i0fM00zgaioAIx6YdXGsNUf6dUw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQC6Yn0Ic60k+KVhiY0B04rR7v18wllDEGE0M5JZhWTZbAIhAOls/TF0VYqSXwIeo1W3gErrSwhboqRROAtQLCENMpQt"
+					}
+				]
+			}
+		},
+		"2.0.2": {
+			"name": "google-translate-api",
+			"version": "2.0.2",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"got": "^6.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.9",
+				"nyc": "^6.4.4",
+				"xo": "^0.15.1"
+			},
+			"dist": {
+				"shasum": "377e1ec5ebd4276a66b9c9246b196ffe63df7a5f",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.0.2.tgz",
+				"integrity": "sha512-/FAKkc/eIvf1kbd9gSTsrKVfvchjDY899fVfti6871ieaU4oaRN2aZ7wGYk5HRG2GgmTzKowZ2LjYFMvozIP1w==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIEQpb1tvQJgfyVYh8fLuLlUQkQkwXPv2PyhtFwvw43gtAiB0SdcabYZZA3LVhDNtkob/8QV2as5p5DG1mpja/3Ic5Q=="
+					}
+				]
+			}
+		},
+		"2.0.3": {
+			"name": "google-translate-api",
+			"version": "2.0.3",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"got": "^6.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.9",
+				"nyc": "^6.4.4",
+				"xo": "^0.15.1"
+			},
+			"dist": {
+				"shasum": "937f91b7af22d9dbab26672dfd0aee27f2575397",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.0.3.tgz",
+				"integrity": "sha512-pN7KhZDpIfONPW/w75+DjGIR8ru4l9V6spNlm+6k1XEa2zPc8vcQ0l3kxU/wb1FryPJzEqIVHHfQUs9j+OXYDw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIDonF4YduIZUYAFXj/2CjhjRi4WMqWv+BeQU6x+pbtVlAiBtfyDF1Jb0+2X0JHBUKEgC0GG3/DKR58scmUWJ6fZM3A=="
+					}
+				]
+			}
+		},
+		"2.1.0": {
+			"name": "google-translate-api",
+			"version": "2.1.0",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"google-translate-token": "latest",
+				"got": "^6.3.0",
+				"safe-eval": "^0.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.9",
+				"nyc": "^6.4.4",
+				"xo": "^0.15.1"
+			},
+			"dist": {
+				"shasum": "a46810972e7da6bf8e3014ce7d7900724ca11fb5",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.1.0.tgz",
+				"integrity": "sha512-DhOtvdEjQNARPq2PchJZgLVlsqB7Qpwwis0WmaWFBrkNCNmIAaAiPSjwyH1D6ZSLUvJwNe3s1yj5n9ez7ZyOYg==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIC1mfihueqXApQ2VKka1mgj3Chgb8pJblrkbhk2enPTLAiEAr5XBJlEdV8TNzRqb3DE+LtFosIAUiA6kqwXLXXb9+1Q="
+					}
+				]
+			},
+			"deprecated": "console.log removed in v2.1.1"
+		},
+		"2.1.1": {
+			"name": "google-translate-api",
+			"version": "2.1.1",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"google-translate-token": "latest",
+				"got": "^6.3.0",
+				"safe-eval": "^0.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.14.0",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.9",
+				"nyc": "^6.4.4",
+				"xo": "^0.15.1"
+			},
+			"dist": {
+				"shasum": "fc0dfb347c4f6c7f84e73d6ffd3cdbc15f6d0cee",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.1.1.tgz",
+				"integrity": "sha512-ULYwhdwHvvXElbBSUo/RSow6rtDnIx4BiSquOF6KCoB6GlZ1K6NnUyXwaOmGV3kIEP7NILX2iDV9Jmmoc+dj/g==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIQDrjMvy8Bwm8hGdis9Nz1l67/3hoWoQzLXTNz+QgVz7GQIgPYRIUyebzhzkqpNO7v02xJb7OSktWvWwGQ+Vjia/plo="
+					}
+				]
+			}
+		},
+		"2.2.0": {
+			"name": "google-translate-api",
+			"version": "2.2.0",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"google-translate-token": "latest",
+				"got": "^6.3.0",
+				"safe-eval": "^0.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.15.2",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.11",
+				"nyc": "^7.0.0",
+				"xo": "^0.16.0"
+			},
+			"dist": {
+				"shasum": "9db56b79944b909ff9d716f377b9f9cb2c42120b",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.2.0.tgz",
+				"integrity": "sha512-46M5KtJ5QZFM4VQ2d1v52yikCvbms33+8xb8FfTu5fTaU++q/hQKMT2xTILJyb2y7mpmmKH/S4vZiWRD+9dHlA==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEUCIDPaSQSvYjQED3BMUAyxerjZG7pdzVNV5qDSTfFlRIMVAiEAyG3bDoCxWhnuXFWSpFVOqmPhVj1VJTNBqIWHGoAr1ys="
+					}
+				]
+			}
+		},
+		"2.2.1": {
+			"name": "google-translate-api",
+			"version": "2.2.1",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"google-translate-token": "latest",
+				"got": "^6.3.0",
+				"safe-eval": "^0.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.15.2",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.11",
+				"nyc": "^7.0.0",
+				"xo": "^0.16.0"
+			},
+			"dist": {
+				"shasum": "874127f159b4c2e1d2063796ad7548a70007cec8",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.2.1.tgz",
+				"integrity": "sha512-5zGLDBKXjhL9fUAFhar3YyX8xYAqO/b83lD307TwNkGu3ppZyee3a2DhbusUfdS1hE4exdv+UIzeUTz8av8PhQ==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEQCIHe5ckq24/wpd5DNzAMDWEh1EgMKZVDQTBpJJ+Al+CrIAiAkAPsjNvGqxL4rAiDtkmkFSVPoP5snK5+FD6PKQCsydw=="
+					}
+				]
+			}
+		},
+		"2.2.2": {
+			"name": "google-translate-api",
+			"version": "2.2.2",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"google-translate-token": "latest",
+				"got": "^6.3.0",
+				"safe-eval": "^0.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.15.2",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.11",
+				"nyc": "^7.0.0",
+				"xo": "^0.16.0"
+			},
+			"dist": {
+				"shasum": "10f5e63159a5dbfa91f1aa6bfc70b7ce3f73a3a0",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.2.2.tgz",
+				"integrity": "sha512-LfZP8ngSx3+RFhNArMPF5u/zmhbpRx5d3PD/jTfaugONWUn9xkTZ3TGi7cube1Y8YjJXDzaKnX8Fv18/4T73nQ==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQCQ+7hnHdSpp5VRgz70ICn4txO2/fuICmG4EqOsNRfxFAIhAJOvnF7pDJ73rG5MOj41ulXbJcbZ/9YAr1SAlTDCunVs"
+					}
+				]
+			}
+		},
+		"2.3.0": {
+			"name": "google-translate-api",
+			"version": "2.3.0",
+			"dependencies": {
+				"configstore": "^2.0.0",
+				"google-translate-token": "latest",
+				"got": "^6.3.0",
+				"safe-eval": "^0.3.0"
+			},
+			"devDependencies": {
+				"ava": "^0.15.2",
+				"codecov": "^1.0.1",
+				"coveralls": "^2.11.11",
+				"nyc": "^7.0.0",
+				"xo": "^0.16.0"
+			},
+			"dist": {
+				"shasum": "626730a123da0d57af3735dd707cda71cee919c7",
+				"tarball": "https://registry.npmjs.org/google-translate-api/-/google-translate-api-2.3.0.tgz",
+				"npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJh2shfCRA9TVsSAnZWagAAcxIP/iG9k+77wM4AiZZrjAQ/\nVUoTLGHUwNrl1mipq+sHzH6X+PEfdLHcoi9bYMEj2qw6iMNGuvn3LKeErrHt\nUuM5+CQAwkcbROzBSSZUT1EHnKynr3bcCj7Sd7jdaM3QngVx1imKOplLvV8O\nFSOH+QsrNcBjKuZsssV3M8Q3UnhrzNJFlbGPl6V+x0nL/LMmzxUF7N9BptWM\nXL1/UxUiqYhAlePz8NPxcJo3D2vODt37GADkx4fa5zf9sOwhj9vW+UKTeAox\nW5V3JuJQWs6EUwU/caCQvSqex8QT8aczJd3TyodX1vpm3OSNsymC/XIufFDB\ncUFCIqvOf+K+hErgpMuDyjkojYX9RJH5eR068+yUADLglCQqGuhNDpmhZ6eV\n08hD2vC/vZt4r1uqExHbW1jdwGyN+y2EBWhVf/GEGGxQJC2vIj+zn+HwMuOo\n5Vo5k/FLoCb5zhcOKDHPQa1n3si1VVeFMRxaoRW2u4pOLRSopxGaXgggJLsU\nehKlHRjuw9+eG8FWQdOAPe2FeNyk9EvRQsEbRup2alpe28K5VCv+o9XgEact\nVZeDOxQxjhF3ycWxmZCYKWEq6+k7wGvX0iJsS+tzUv4t+JsQwjbDZs5o/ExJ\nTPSzVRTcmgkPW4BYdchiPGJ052RJmDu3WD/Ndq0jugM58nYvh6lUuc8oKmp5\nUIvR\r\n=QGHT\r\n-----END PGP SIGNATURE-----\r\n",
+				"integrity": "sha512-a7MRJpSAoS9HyQPE7Yqp5jYSRePWju53+Je/AkgU//zbSmZhy2tc+MvxlwbOegpptT7Ep6GCt7Q1/j7WmTntZw==",
+				"signatures": [
+					{
+						"keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+						"sig": "MEYCIQCZFqBPmnaZgA6xoULpZPdBVa6DulqT3jAAqCDRYyN/ngIhAKkCUGlz5XLPstcy4u4GtY9IegvtFfCfx82zUOif+8VM"
+					}
+				]
+			}
+		}
+	},
+	"modified": "2022-06-18T13:31:28.876Z",
+	"cachedAt": 1681616998728
+}

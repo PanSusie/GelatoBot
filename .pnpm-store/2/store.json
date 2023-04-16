@@ -1,0 +1,1034 @@
+{
+	"registry.npmjs.org/node/12.22.12": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/please-upgrade-node/3.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/express/4.17.17": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/tsscmp/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/google-translate-api/2.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@slack/types/2.8.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/path-to-regexp/6.2.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@slack/logger/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/configstore/2.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/raw-body/2.5.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/node-bin-setup/1.1.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/tsscmp/1.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/got/6.7.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/google-translate-token/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/safe-eval/0.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/express/4.18.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/arrify/2.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@google-cloud/promisify/3.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/promise.allsettled/1.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/lodash.isstring/4.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/extend/3.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/semver-compare/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/jsonwebtoken/8.5.9": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/follow-redirects/1.15.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/qs/6.9.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@slack/socket-mode/1.3.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/body-parser/1.19.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/form-data/4.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/serve-static/1.15.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/array-flatten/1.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/express-serve-static-core/4.17.33": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/jsonwebtoken/9.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/accepts/1.3.8": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@google-cloud/common/4.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/content-disposition/0.5.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/content-type/1.0.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/escape-html/1.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/encodeurl/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/cookie/0.5.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/depd/2.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/etag/1.8.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/body-parser/1.20.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/fresh/0.5.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/finalhandler/1.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/merge-descriptors/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/http-errors/2.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/methods/1.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/on-finished/2.4.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/path-to-regexp/0.1.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/parseurl/1.3.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@google-cloud/translate/7.2.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/debug/2.6.9": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/proxy-addr/2.0.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/range-parser/1.2.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/serve-static/1.15.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/setprototypeof/1.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/statuses/2.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/type-is/1.6.18": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/vary/1.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/utils-merge/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/send/0.18.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/axios/0.27.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/p-queue/2.4.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/ws/7.4.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/p-cancelable/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-electron/2.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/eventemitter3/3.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/form-data/2.5.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-stream/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/p-retry/4.6.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/qs/6.11.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/p-queue/2.3.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ws/7.5.9": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/bytes/3.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/call-bind/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/define-properties/1.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/p-queue/6.6.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/get-intrinsic/1.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/array.prototype.map/1.0.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/unpipe/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/dot-prop/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/object-assign/4.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/iterate-value/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/os-tmpdir/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/osenv/0.1.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/mkdirp/0.5.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/finity/0.5.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/create-error-class/3.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/xdg-basedir/2.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/write-file-atomic/1.3.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-redirect/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-retry-allowed/1.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/get-stream/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@slack/oauth/2.6.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/lowercase-keys/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/timed-out/4.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/duplexer3/0.1.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/unzip-response/2.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@google-cloud/projectify/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/long/4.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/rimraf/3.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/retry-request/5.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/duplexify/4.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/uuid/2.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/iconv-lite/0.4.24": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/fast-text-encoding/1.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ent/2.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/node-fetch/2.6.9": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/object-hash/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@grpc/proto-loader/0.7.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/teeny-request/8.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-stream-ended/0.1.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ms/2.1.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/abort-controller/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/jws/3.2.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/html-tags/3.3.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/mime-types/2.1.35": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/combined-stream/1.0.8": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/range-parser/1.2.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/connect/3.4.35": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/mime/3.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ms/2.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/negotiator/0.6.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/asynckit/0.4.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/raw-body/2.5.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/inherits/2.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ee-first/1.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/forwarded/0.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/toidentifier/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ipaddr.js/1.9.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/protobufjs-cli/1.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/side-channel/1.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/media-typer/0.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/eventemitter3/4.0.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/p-timeout/3.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/mime/1.6.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/es-array-method-boxes-properly/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/retry/0.13.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-string/1.0.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/function-bind/1.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/has-property-descriptors/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/semver/7.4.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/object-keys/1.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/array-buffer-byte-length/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/available-typed-arrays/1.0.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/es-set-tostringtag/2.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/has/1.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/node/18.15.11": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/gopd/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/get-symbol-description/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/has-proto/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/es-to-primitive/1.2.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/globalthis/1.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/function.prototype.name/1.1.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/google-auth-library/8.7.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-array-buffer/3.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/internal-slot/1.0.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/has-symbols/1.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-regex/1.1.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-negative-zero/2.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-shared-array-buffer/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-weakref/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-typed-array/1.1.10": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/regexp.prototype.flags/1.4.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/safe-regex-test/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/string.prototype.trimend/1.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/unbox-primitive/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/string.prototype.trim/1.2.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@slack/bolt/3.13.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/string.prototype.trimstart/1.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/which-typed-array/1.1.9": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/typed-array-length/1.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-obj/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/imurmurhash/0.1.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/safer-buffer/2.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/protobufjs/7.2.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/os-homedir/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/object-inspect/1.12.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/object.assign/4.1.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/capture-stack-trace/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/end-of-stream/1.4.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/prepend-http/1.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/stream-shift/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/base64-js/1.5.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/iterate-iterator/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ecdsa-sig-formatter/1.0.11": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/slide/1.1.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/lru-cache/6.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/gtoken/6.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/debug/4.3.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/stream-events/1.0.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/http-proxy-agent/5.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/minimist/1.2.8": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/gcp-metadata/5.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/https-proxy-agent/5.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/lodash.camelcase/4.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/gaxios/5.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/long/4.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/aspromise/1.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/base64/1.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/whatwg-url/5.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/readable-stream/3.6.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/event-target-shim/5.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/codegen/2.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/path/1.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/fetch/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/float/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/pool/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/inquire/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/long/5.2.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/chalk/4.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/eventemitter/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/estraverse/5.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/escodegen/1.14.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/glob/8.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/p-finally/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/tmp/0.2.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/espree/9.5.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/delayed-stream/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@protobufjs/utf8/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/mime-db/1.52.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/has-tostringtag/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/for-each/0.3.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/has-bigints/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/functions-have-names/1.2.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-date-object/1.0.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-symbol/1.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/which-boxed-primitive/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/isarray/2.0.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/once/1.4.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/string_decoder/1.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-arguments/1.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-map/2.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-set/2.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/jwa/2.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-stream/2.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/uglify-js/3.17.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ms/2.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/yallist/4.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/util-deprecate/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/json-bigint/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/yargs/16.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/google-p12-pem/4.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/agent-base/6.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/string-width/4.2.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@tootallnate/once/2.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/cliui/7.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/get-caller-file/2.0.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/stubs/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/escalade/3.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/webidl-conversions/3.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/tr46/0.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/y18n/5.0.8": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/supports-color/7.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ansi-styles/4.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/minimatch/5.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/estraverse/4.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/uuid/9.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/yargs-parser/20.2.9": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/inflight/1.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/fs.realpath/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/acorn-jsx/5.3.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/optionator/0.8.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/esutils/2.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/minimatch/5.1.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/eslint-visitor-keys/3.4.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/esprima/4.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/rimraf/3.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@jsdoc/salty/0.2.5": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/klaw/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/escape-string-regexp/2.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/js2xmlparser/4.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/source-map/0.6.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/catharsis/0.9.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/strip-json-comments/3.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/requizzle/0.2.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/mkdirp/1.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/buffer-equal-constant-time/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/markdown-it-anchor/8.6.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@babel/parser/7.21.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/markdown-it/12.2.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-bigint/1.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/wrappy/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-number-object/1.0.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-boolean-object/1.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/marked/4.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/strip-ansi/6.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/bignumber.js/9.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-fullwidth-code-point/3.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/color-convert/2.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/emoji-regex/8.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/word-wrap/1.2.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/wrap-ansi/7.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/prelude-ls/1.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/deep-is/0.1.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/type-check/0.3.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/fast-levenshtein/2.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/glob/7.2.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/brace-expansion/2.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/levn/0.3.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/linkify-it/3.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/argparse/2.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/bluebird/3.7.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/mdurl/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/safe-buffer/5.2.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/node-forge/1.3.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/jws/4.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/google-gax/3.6.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@grpc/grpc-js/1.8.14": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/ansi-regex/5.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/color-name/1.1.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/require-directory/2.1.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/glob/8.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/proto3-json-serializer/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/has-flag/4.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/acorn/8.8.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/balanced-match/1.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/jsdoc/4.0.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/lodash/4.17.21": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/xmlcreate/2.0.4": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/graceful-fs/4.2.11": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/markdown-it/12.3.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/entities/2.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/linkify-it/3.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/uc.micro/1.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/mdurl/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/underscore/1.13.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/minimatch/3.1.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/brace-expansion/1.1.11": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/concat-map/0.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/path-is-absolute/1.0.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-html/2.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@slack/web-api/6.8.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/is-stream/1.1.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/retry/0.12.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/jwa/1.4.1": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/@types/promise.allsettled/1.0.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/destroy/1.2.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/cookie-signature/1.0.6": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/es-abstract/1.21.2": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/is-callable/1.2.7": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/es-get-iterator/1.1.3": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/stop-iteration-iterator/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	],
+	"registry.npmjs.org/url-parse-lax/1.0.0": [
+		"/rbd/pnpm-volume/3b4abe5f-1e53-4e2d-8fa3-81c8cc26ba98"
+	]
+}
